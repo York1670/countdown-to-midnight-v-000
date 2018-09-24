@@ -8,7 +8,7 @@ def countdown(number)
 end
 
 def countdown_with_sleep(countdown)
-	
+
 	sleep_number = 1
 
 	until sleep_number > 10
